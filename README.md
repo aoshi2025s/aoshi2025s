@@ -19,6 +19,11 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aoshi2025s&layout=compact&theme=dracula" />
   </a>
 </div>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,c,vim,cpp,go,linux,mongodb,mysql,nextjs,nodejs,ts,py" />
+  </a>
+</p>
 
 <!---
 aoshi2025s/aoshi2025s is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
