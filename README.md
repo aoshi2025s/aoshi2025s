@@ -1,4 +1,4 @@
-# This is aoshi2025s's profile
+# This is @aoshi2025s's profile
 
 <p align="left">
   <a href="https://github.com/aoshi2025s/aoshi2025s/">
