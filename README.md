@@ -27,7 +27,7 @@
 ## My skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,cpp,go,linux,mysql,nodejs,ts,py" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,cpp,go,linux,nodejs,ts" />
   </a>
 </p>
 
