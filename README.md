@@ -1,8 +1,9 @@
 # This is @aoshi2025s's profile
 
-<p>I am an undergraduate student at Keio University.<br>
-  I attend 42tokyo and study computer science.<br>
-  I am engaged in software development through an internship.</p>
+<p>I am an undergraduate student at Keio University.<br />
+  I attend 42 Tokyo, where I study computer science.<br />
+  I am also engaged in software development through an internship.
+</p>
 
 <p align="left">
   <a href="https://github.com/aoshi2025s/aoshi2025s/">
