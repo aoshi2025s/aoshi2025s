@@ -28,7 +28,7 @@
 ## My skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,cpp,go,linux,nodejs,ts" />
+    <img src="https://skillicons.dev/icons?i=docker,cpp,go,linux,nodejs,ts,react" />
   </a>
 </p>
 <a href="https://data.typeracer.com/pit/profile?user=aoshi2025s&ref=badge" target="_top"><img src="https://data.typeracer.com/misc/badge?user=aoshi2025s" border="0" alt="TypeRacer.com scorecard for user aoshi2025s"/></a>
